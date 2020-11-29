@@ -6,13 +6,6 @@
     "gender": "Male",
     "ip_address": "226.181.57.118"
   }, {
-    "id": 2,
-    "first_name": "Barby",
-    "last_name": "Tarpey",
-    "email": "btarpey1@g.co",
-    "gender": "Female",
-    "ip_address": "113.234.178.89"
-  }, {
     "id": 3,
     "first_name": "Jerrilee",
     "last_name": "Middlehurst",
@@ -29,7 +22,7 @@
   }, {
     "id": 5,
     "first_name": "Crawford",
-    "last_name": "Poulson",
+    "last_name": "Puls",
     "email": "cpoulson4@google.es",
     "gender": "Male",
     "ip_address": "94.173.245.211"
@@ -42,7 +35,7 @@
     "ip_address": "167.136.90.63"
   }, {
     "id": 7,
-    "first_name": "Noam",
+    "first_name": "Noam Li",
     "last_name": "Strachan",
     "email": "nstrachan6@goo.ne.jp",
     "gender": "Male",
